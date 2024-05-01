@@ -23,13 +23,5 @@
                 "script.js"
             ]
         }
-    ],
-    "browser_action": {
-        "default_popup": "popup.html",
-        "default_icon": {
-            "16": "Assets/icon16.png",
-            "48": "Assets/icon32.png",
-            "128": "Assets/icon128.png"
-        }
-    }
+    ]
 }
